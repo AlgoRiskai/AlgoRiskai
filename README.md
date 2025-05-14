@@ -13,9 +13,7 @@ Welcome to my GitHub! I'm the creator of **AlgoRisk**, an open-source AI-native 
 
 `Python` | `Pandas` | `Scikit-learn` | `TensorFlow` | `PyTorch` | `SQL` | `LangChain` | `OpenAI` | `Streamlit` | `FastAPI`
 
-## Let's Collaborate
 
-I’m actively looking for contributors to **AlgoRisk**—whether you're into modeling, software engineering, or UX for risk systems. Feel free to open an issue or start a conversation.
 
 ---
 
